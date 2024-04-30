@@ -84,7 +84,7 @@ $info-text-color:#333333;
    global => global.scss
 
 
-
+&nbsp;	&#160;	неразрывный пробел
 
 
 
