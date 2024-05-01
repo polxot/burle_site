@@ -18,6 +18,11 @@
 
 @import './bloks/footer.css';
 
+/* pages */
+@import './bloks/button_page.css';
+@import './bloks/content.css';
+@import './bloks/first.css';
+
 
 
 

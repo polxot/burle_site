@@ -34,6 +34,11 @@ font-weight: 600;
 	font-size: var(--small-fz);
 	font-weight: 700;
 }
+.footer-pages {
+	margin-top: -0.5rem;
+	margin-bottom: 0.5rem;
+	height: auto;
+}
 
 /* .footer-block h5 {
   color: #ede5a8;

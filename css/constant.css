@@ -10,6 +10,7 @@
 	--large-fz: calc(30px + (80 - 30) * ((100vw - 300px) / (1500 - 300)));
 	--medium-fz: calc(16px + (20 - 16) * ((100vw - 300px) / (1500 - 300)));
 	--small-fz: calc(12px + (16 - 12) * ((100vw - 300px) / (1500 - 300)));
+	--h2-fz: calc(20px + (40 - 20) * ((100vw - 300px) / (1500 - 300)));
 	--h3-fz: calc(14px + (25 - 14) * ((100vw - 300px) / (1500 - 300)));
 	--user-name-fz: calc(14px + (30 - 14) * ((100vw - 300px) / (1500 - 300)));
 	--info-box-fz: calc(14px + (40 - 14) * ((100vw - 300px) / (1500 - 300)));
@@ -25,7 +26,8 @@
 	font-size: var(--medium_2-fz);
 }
 .btn i {
-	padding: 0rem 0.5rem;
+	font-size: 1.5rem;
+	padding: 0rem 0.3rem;
 }
 .btn:hover {
 	background: var(--main-clr);
